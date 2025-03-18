@@ -26,7 +26,7 @@ Clone this repository and ```cd``` into it. Use ```make``` to compile, then laun
 ```
 A prompt will appear. You may enter your commands to be executed.
 
-### Supported Features
+## Supported Features
 
 Minishell is a miniature shell program based on Bash. Minishell supports:
 * Prompt display
