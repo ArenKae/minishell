@@ -22,7 +22,7 @@ Grade: 101/100
 
 Clone this repository and ```cd``` into it. Use ```make``` to compile, then launch the program with :
 ```
-./mimishell
+./minishell
 ```
 A prompt will appear. You may enter your commands to be executed.
 
