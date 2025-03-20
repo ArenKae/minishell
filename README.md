@@ -10,7 +10,7 @@ The existence of shells is linked to the very existence of IT. Soon after the in
 Thanks to Minishell, we'll have the opportunity to travel through time and confront problems people faced back when Windows didn’t exist. This team project is an implementation of a basic shell program in C. It implements redirections and pipes, as well as environment variable expansions and a few builtin commands.
 
 <p align="center">
-  <img src="https://github.com/ArenKae/ArenKae/blob/main/screens/Minishell.gif" alt="mimishell demo gif">
+  <img src="https://github.com/ArenKae/ArenKae/blob/main/screens/minishell.gif" alt="mimishell demo gif">
 </p>
 
 ## Status
