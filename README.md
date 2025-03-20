@@ -14,9 +14,9 @@ Thanks to Minishell, we'll have the opportunity to travel through time and confr
 </p>
 
 ## Status
-Finished 22/012/2023.
-
-Grade: 101/100
+✅ Completed on: 22/12/2023
+</br>
+🏆 Grade: 101/100
 
 ## Usage
 
