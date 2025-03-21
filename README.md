@@ -56,4 +56,5 @@ Minishell is a miniature shell program based on Bash. Minishell supports:
 
 ---
 
-This project was made in collaboration with keschouf.
+> [!NOTE]
+> This project was made in collaboration with keschouf.
