@@ -53,8 +53,7 @@ Minishell is a miniature shell program based on Bash. Minishell supports:
   * `ctrl-c` displays a new prompt line.
   * `ctrl-d` exits minishell
   * `ctrl-\` does nothing
-
----
+</br>
 
 > [!NOTE]
 > This project was made in collaboration with keschouf.
