@@ -48,7 +48,7 @@ Minishell is a miniature shell program based on Bash. Minishell supports:
   * `<` redirects input
   * `<< DELIMITER` (heredoc) displays a new prompt, reads user input until reaching `DELIMITER`, redirects user input to command input (does not update history)
 * Environment variables (i.e. `$USER` or `$VAR`) that expand to their values.
-  * `$?` expands to the exit status of the most last executed command.
+  * `$?` expands to the exit status of the last executed command.
 * User keyboard signals:
   * `ctrl-c` displays a new prompt line.
   * `ctrl-d` exits minishell
